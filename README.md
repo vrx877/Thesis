@@ -1,2 +1,2 @@
 # Thesis
-Code library for Master's Thesis
+Code library for Master's Thesis.
